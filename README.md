@@ -12,13 +12,6 @@ The analysis focuses on:
 
 ---
 
-# Data Source
-
-Dataset Source:  
-https://platform.stratascratch.com/data-projects/insights-failed-orders
-
----
-
 # Tech Stack
 
 - Python
