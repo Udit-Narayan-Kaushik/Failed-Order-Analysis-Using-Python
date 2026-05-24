@@ -38,6 +38,8 @@ https://platform.stratascratch.com/data-projects/insights-failed-orders
 - Study ETA trends and operational inefficiencies
 
 ---
+<img width="859" height="470" alt="image" src="https://github.com/user-attachments/assets/3ebc18a0-923b-4c6a-a993-a589fd190340" />
+
 
 # Key Insights
 
